@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <% include ../partials/header.ejs %>
+    </head>
+    <body>
+        <% include ../partials/nav.ejs %>
+        <div class="container">
+            <div class="row">
+                <h3>Bag of swelled up S**t, Yea thats me.</h3>
+                <p>Why is it excuse my french. I mean the stereotype</p>
+                <p>of the french isn't a swearing load or something, that</p>
+                <p>title belongs to us. But I never got that little phrase.</p>
+                <p>Anyway, I figured you should know that compared to other</p>
+                <p>self made blogs, mine is a bag of... well you get it.</p>
+                <p>The fact is, Im not a programmer. Barely learnt enough</p>
+                <p>to make a blog. I got half this stuff straight from the web.</p>
+                <p>Yet still I enjoy the hell out of it. Trying to solve bits of</p>
+                <p>code. Learning as you create a program to make making programs</p>
+                <p>easier. It's awesome. But no matter how much I believe, I aint</p>
+                <p>raisin Tinkerbell from the dead.</p>
+                <script> console.log ("")</script>
+            </div>
+          </div>
+        </div>
+    </body>
+</html>
