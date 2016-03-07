@@ -24,4 +24,10 @@
     border: 2px solid white; }
     .jumbotron .lang-logo img {
       max-width: 100%; }
-
+    .footer {
+    background-color:Red;
+    color:Black;
+    clear:both;
+    text-align:center;
+   padding:50%;	 	 
+}
