@@ -25,9 +25,9 @@
     .jumbotron .lang-logo img {
       max-width: 100%; }
     .footer {
-    background-color:Red;
-    color:Black;
-    clear:both;
+    background-color:black;
+    color:white;
+    
     text-align:center;
    padding:50%;	 	 
 }
